@@ -1,6 +1,7 @@
 # Shiva-mode
 "UX/UI experiments inspired by cosmic alignment and spiritual clarity."
-# Project Name
+# Project "Where Surrender Meets Interface"
+
 
 ## 🌟 Description
 Interface Description – Shiva Mode: UX/UI as Cosmic Offering  

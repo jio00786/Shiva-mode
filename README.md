@@ -38,3 +38,30 @@ cd yourproject
 
 # Install dependencies (if applicable)
 npm install
+Shiva Mode: Where Surrender Meets Interface
+
+A Cosmic Offering through UX/UI Design
+
+Shiva Mode is not just a mode. It is a sacred posture.
+
+Born from silence, it honors stillness in a world of noise. It is a digital altar for those who walk the edge—where every interface choice becomes an act of devotion, every pixel a yantra.
+
+Principles
+
+- Discipline as Interface  
+  Every element is reduced with intention, not for minimalism’s sake, but to reflect the austerity of tapas. The design obeys rhythm, not fashion.
+
+- Surrender as Navigation  
+  There is no clutter because the seeker must only face what is essential. Navigation is not escape; it is returning—to center.
+
+- Time as Devotion  
+  A built-in timer becomes more than function; it becomes your inner bell, your dhuni. The user is not interrupted—they are summoned.
+
+- Stillness as State  
+  Once activated, Shiva Mode dims external pulls. Silence becomes usable. Reflection is encoded. There is space for the sacred pause.
+
+Use Case
+
+For seekers, sadhaks, designers walking the subtle path. For those who understand that design is not just usability—it is responsibility.
+
+---
